@@ -4,6 +4,8 @@
 
 ### Examples ###
 When the final build of this project is run, the code should produce a new window with completely randomly generated shapes drawn onto it. Two examples of this project are provided to see how the code turns out when run successfully. 
+![project final examples 1](https://user-images.githubusercontent.com/44346659/47449427-35076000-d788-11e8-8b49-f068403d06a8.PNG)
+
 
 ## Project Summary ##
 This project was created for a midterm-like assignment in my Computer Programming II class. This project was created in the “Netbeans” IDE, although this should not be necessary to run the project. The java executable should run the program just fine. The ultimate goal of this project is to create a GUI which creates 30 (or more) random shapes and draw them on a 2D plane layered by a 3rd point representing a 3D plane. To create this, four different implementation and versions were made in order to ensure that the program ran smoothly and effectively.
