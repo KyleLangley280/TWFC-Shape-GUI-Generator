@@ -1,0 +1,30 @@
+
+package LangleyLab5D;
+
+
+public class Circle extends Shape{
+
+    private double radius;
+    
+    @Override
+    public double area(){
+        return ( Math.PI *  Math.pow(this.radius, 2) );
+    }
+    
+    public double getRadius(){
+        return radius;
+    }
+    
+
+    public Circle(int x, int y, int z, double newRadius){
+        super(x,y,z);
+        this.radius = newRadius;
+        
+    }
+    @Override
+    public String toString (){
+        String result = "( " + super.getX() + ", " + super.getY()  + ", " +super.getZ() + " ): ("  + area() + " )" ;
+        return result;
+    }
+    
+}
