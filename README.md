@@ -4,6 +4,7 @@
 
 ### Examples ###
 When the final build of this project is run, the code should produce a new window with completely randomly generated shapes drawn onto it. The Java executable is provided with this repository as well as the code. Here is one example of what the final product when ran looks like.
+
 ![project final examples 1](https://user-images.githubusercontent.com/44346659/47449427-35076000-d788-11e8-8b49-f068403d06a8.PNG)
 
 
