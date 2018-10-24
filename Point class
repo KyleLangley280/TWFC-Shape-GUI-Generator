@@ -1,0 +1,45 @@
+
+package LangleyLab5D;
+
+public class Point {
+    
+    private int x,y,z;
+
+    public Point(int newX, int newY, int newZ){
+        if (newX < 0)
+            this.x = 0;
+        else if(newX > 500)
+            this.x = 500;
+        else{
+            this.x = newX;
+        }
+        
+        
+        if (newY < 0)
+            this.y = 0;
+        else if(newY > 500)
+            this.y = 500;
+        else{
+            this.y = newY;
+        }
+        
+         if (newZ < 0)
+            this.z = 0;
+        else if(newZ > 500)
+            this.z = 500;
+        else{
+            this.z = newZ;
+        }
+    }
+
+    public int getX() {
+        return this.x;
+    }
+
+    public int getY() {
+        return this.y;
+    }
+    public int getZ(){
+        return this.z;
+    }
+}
