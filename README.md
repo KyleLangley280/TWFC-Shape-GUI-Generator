@@ -3,7 +3,7 @@
   My name is Kyle Langley and this is code and a README file uploaded for my Technical Writing for Computer Science class. This code originally is created for my Computer Programming II class. This code was created in four different versions. While the final build is uploaded, the other builds/versions are discussed to document how the whole program was created step by step.
 
 ### Examples ###
-When the final build of this project is run, the code should produce a new window with completely randomly generated shapes drawn onto it. Here is one example of what the final product when ran looks like.
+When the final build of this project is run, the code should produce a new window with completely randomly generated shapes drawn onto it. The Java executable is provided with this repository as well as the code. Here is one example of what the final product when ran looks like.
 ![project final examples 1](https://user-images.githubusercontent.com/44346659/47449427-35076000-d788-11e8-8b49-f068403d06a8.PNG)
 
 
