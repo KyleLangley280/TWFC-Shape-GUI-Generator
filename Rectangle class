@@ -1,0 +1,40 @@
+
+package LangleyLab5D;
+
+
+public class Rectangle extends Shape {
+    
+    private double length;
+    private double width;
+  
+    
+    @Override
+    public double area(){
+        return ( this.length * this.width);
+    }
+    
+    public double getLength(){
+        return this.length;
+    }
+    
+    public double getWidth(){
+        return this.width;
+    }
+        
+
+    public Rectangle(int x, int y, int z, double newLength, double newWidth){
+        super(x,y,z);
+        this.length = newLength;
+        this.width = newWidth;
+        
+    }
+    @Override
+    public String toString (){
+        String result = "(" + super.getX() + ", " + super.getY() + ", " + super.getZ() + " ): [" + area() + " ]";
+        return result;
+    }
+    
+    
+    
+    
+}
