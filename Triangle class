@@ -1,0 +1,35 @@
+
+package LangleyLab5D;
+
+
+public class Triangle extends Shape {
+    private double base;
+    private double height;
+    
+    @Override
+    public double area(){
+        return ( (this.base * this.height) / 2 );
+    }
+    
+    public double getBase(){
+        return this.base;
+    }
+    
+    public double getHeight(){
+        return this.height;
+    }
+        
+
+
+    public Triangle(int x, int y, int z, double newBase, double newHeight){
+        super(x,y,z);
+        this.base = newBase;
+        this.height = newHeight;
+        
+    }
+    @Override
+    public String toString (){
+        String result = "(" + super.getX() + ", " + super.getY() + ", " + super.getZ()+ "): / " + area() + " \\ ";
+        return result;
+    }
+}
