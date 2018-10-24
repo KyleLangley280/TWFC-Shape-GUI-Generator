@@ -1,4 +1,4 @@
-# TWFC-Shape-GUI-Generator
+# TWFCS-Shape-GUI-Generator
 ## Introduction ##
   My name is Kyle Langley and this is code and a README file uploaded for my Technical Writing for Computer Science class. This code originally is created for my Computer Programming II class. This code was created in four different versions. While the final build is uploaded, the other builds/versions are discussed to document how the whole program was created step by step.
 
