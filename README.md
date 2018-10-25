@@ -8,6 +8,17 @@ When the final build of this project is run, the code should produce a new windo
 ![project final examples 1](https://user-images.githubusercontent.com/44346659/47449427-35076000-d788-11e8-8b49-f068403d06a8.PNG)
 
 
+###Compiler?###
+This project was made in netbeans. Since the files are included in text documents however, you should be able to copy the included files into any java compiler/IDE and it should run appropriately. 
+
+If you would like to use netbeans and don't have it downloaded, here is a link to the download page:
+https://netbeans.org/downloads/index.html
+Netbeans EE download should suffice just fine.
+
+To run this, you will also need to download Java if you don't already. Just download appropriate jdk file for your system, netbeans will need this upon loading up.
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+
 ## Project Summary ##
 This project was created for a midterm-like assignment in my Computer Programming II class. This project was created in the “Netbeans” IDE, although this should not be necessary to run the project. The java executable should run the program just fine. The ultimate goal of this project is to create a GUI which creates 30 (or more) random shapes and draw them on a 2D plane layered by a 3rd point representing a 3D plane. To create this, four different implementation and versions were made in order to ensure that the program ran smoothly and effectively.
 
