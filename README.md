@@ -9,13 +9,17 @@ When the final build of this project is run, the code should produce a new windo
 
 
 ###Compiler?###
+
 This project was made in netbeans. Since the files are included in text documents however, you should be able to copy the included files into any java compiler/IDE and it should run appropriately. 
 
 If you would like to use netbeans and don't have it downloaded, here is a link to the download page:
+
 https://netbeans.org/downloads/index.html
+
 Netbeans EE download should suffice just fine.
 
 To run this, you will also need to download Java if you don't already. Just download appropriate jdk file for your system, netbeans will need this upon loading up.
+
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 
