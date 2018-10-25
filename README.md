@@ -8,7 +8,7 @@ When the final build of this project is run, the code should produce a new windo
 ![project final examples 1](https://user-images.githubusercontent.com/44346659/47449427-35076000-d788-11e8-8b49-f068403d06a8.PNG)
 
 
-###Compiler?###
+### Compiler? ###
 
 This project was made in netbeans. Since the files are included in text documents however, you should be able to copy the included files into any java compiler/IDE and it should run appropriately. 
 
